@@ -29,8 +29,8 @@ function createFieldElem(option) {
 }
 
 const emails = ['@gmail.com',];
-const newestUrls = ['https://鈑娩睸.miaomiao.sbs/關於喵','https://鈑娩睸.miaomiao.sbs/關於喵'];
-const otherUrls = ['https://鈑娩睸.miaomiao.sbs/關於喵'];
+const newestUrls = ['https://鈑娩睸.miaomiaotv.sbs/關於喵','https://鈑娩睸.miaomiaotv.sbs/關於喵'];
+const otherUrls = ['https://鈑娩睸.miaomiaotv.sbs/關於喵'];
 const foreverUrls = ['https://mmyy.sbs'];
 const notices = [ '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建立您使用手机自带Safria浏览器访问。 ','* 如果点击进入后打不开本站，请换（电信或联通）网络在访问本站，移动网络频繁屏蔽本站～。',];
 
