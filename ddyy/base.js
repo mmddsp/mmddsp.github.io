@@ -29,8 +29,8 @@ function createFieldElem(option) {
 }
 
 const emails = ['@gmail.com',];
-const newestUrls = ['https://韝蹵粃.duoduotv.sbs/多多髮財','https://韝蹵粃.duoduotv.sbs/多多髮財'];
-const otherUrls = ['https://韝蹵粃.duoduotv.sbs/多多髮財'];
+const newestUrls = ['https://韝蹵粃.duoduoyy.buzz/多多髮財','https://韝蹵粃.duoduoyy.buzz/多多髮財'];
+const otherUrls = ['https://韝蹵粃.duoduoyy.buzz/多多髮財'];
 const foreverUrls = ['https://ddyy.sbs'];
 const notices = [ '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建立您使用手机自带Safria浏览器访问。 ','* 如果点击进入后打不开本站，请换（电信或联通）网络在访问本站，移动网络频繁屏蔽本站～。',];
 
